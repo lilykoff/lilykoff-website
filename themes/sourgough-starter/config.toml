@@ -1,0 +1,95 @@
+baseURL = "https://example.com"
+languageCode = "en-us"
+title = "Lily Koffman"
+theme = "sourgough-starter"
+relativeURLs = true
+
+[markup.goldmark.renderer]
+    unsafe= true
+
+[params]
+#------------- Config -------------------
+    scholarLink = true
+    scopusLink = true
+    dimensionsLink = true
+    dimensionCitations = false
+    backgroundPath = "images/IMG_6450.JPG"
+    googleScholar = 'lOh2k5YAAAAJ' # These are needed only if set to true above
+    scopusID = '0000-0003-1543-2896'
+    dimensionsID = 'XXXX'
+    footerOffset = -60
+
+#-------------- Defined ------------
+    css= ["css/sourgough.css"]
+
+[menu]
+#----- Navbar links ------
+  [[menu.main]]
+    identifier = "about2"
+    name = "About"
+    url = "/About2/"
+
+  [[menu.main]]
+    identifier = "publications2"
+    name = "Publications"
+    url = "/Publications2/"
+
+  [[menu.main]]
+    identifier = "ProjectsPress"
+    name = "Projects and Press"
+    url = "/ProjectsPress/"
+
+
+#----- NavBottom Links ------
+  [[menu.bot]]
+    identifier = "github"
+    name = "Github"
+    url = "https://github.com/lilykoff"
+    pre = "fab fa-github"
+
+  [[menu.bot]]
+    identifier = "linkedin"
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/lily-koffman-720b13152/"
+    pre = "fab fa-linkedin-in"
+
+  
+
+#-------- About section links ----- 
+  [[menu.about]]
+    identifier = "ordcidid"
+    name = "OrcidID"
+    url = "https://orcid.org/0000-0003-1543-2896"
+    pre = "fab fa-orcid"
+
+  [[menu.about]]
+    identifier = "researchgate"
+    name = "ResearchGate"
+    url = "https://www.researchgate.net/profile/Lily-Koffman"
+    pre = "fab fa-researchgate"
+
+  [[menu.about]]
+    identifier = "medium"
+    name = "Medium"
+    url = "https://medium.com/@lilykoffman"
+    pre = "fab fa-medium-m"
+
+  [[menu.about]]
+    identifier = "googlescholar"
+    name = "Google Scholar"
+    url = "https://scholar.google.com/citations?user=lOh2k5YAAAAJ&hl=en"
+    pre = "fas fa-graduation-cap"
+
+#----------- Text Links -------
+  [[menu.link]]
+    identifier = "email"
+    name = "email"
+    url = "mailto:lkoffma2@jh.edu"
+
+  [[menu.link]]
+    identifier = "resume"
+    name = "resume"
+    url = "https://drive.google.com/file/d/18IDgbEMOcgsZYrkfqj6rMlb5TbTHQa6a/view?usp=sharing"
+
+[taxonomies]
+  authors = "authors"
