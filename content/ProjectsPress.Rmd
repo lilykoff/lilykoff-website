@@ -12,7 +12,7 @@ Date: '2021'
 <div class=card-body>
 <h5 class=card-title> US Ski and Snowboard Press Release</h5>
 <p class=card-text><a href=https://usskiandsnowboard.org/news/woman-behind-numbers-how-lily-koffman-helps-mold-better-athletes-through-science target=_blank>The Woman Behind the Numbers: How Lily Koffman Helps Mold Better Athletes Through Science</a></p>
-<img class = card-image src = https://usskiandsnowboard.org/sites/default/files/images/news-articles/hero-image/2020-09/DSC08340.jpg />
+<img class = card-image width="400" height="225" src = https://usskiandsnowboard.org/sites/default/files/images/news-articles/hero-image/2020-09/DSC08340.jpg />
 </div>
 </div>
 </div>
