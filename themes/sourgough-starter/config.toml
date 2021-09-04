@@ -17,6 +17,7 @@ relativeURLs = true
     googleScholar = 'lOh2k5YAAAAJ' # These are needed only if set to true above
     scopusID = '0000-0003-1543-2896'
     dimensionsID = 'XXXX'
+    footerOffset = -60
 
 #-------------- Defined ------------
     css= ["css/sourgough.css"]
