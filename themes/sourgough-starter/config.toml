@@ -25,14 +25,14 @@ relativeURLs = true
 [menu]
 #----- Navbar links ------
   [[menu.main]]
-    identifier = "about2"
+    identifier = "about"
     name = "About"
-    url = "/About2/"
+    url = "/About/"
 
   [[menu.main]]
-    identifier = "publications2"
+    identifier = "publications"
     name = "Publications"
-    url = "/Publications2/"
+    url = "/Publications/"
 
   [[menu.main]]
     identifier = "ProjectsPress"
@@ -89,7 +89,7 @@ relativeURLs = true
   [[menu.link]]
     identifier = "resume"
     name = "resume"
-    url = "https://drive.google.com/file/d/18IDgbEMOcgsZYrkfqj6rMlb5TbTHQa6a/view?usp=sharing"
+    url = "https://drive.google.com/file/d/1eCB2-rq8yP7yxKIi7PJTYGnBSFYEF_ul/view?usp=sharing"
 
 [taxonomies]
   authors = "authors"
