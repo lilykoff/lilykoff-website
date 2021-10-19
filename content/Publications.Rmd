@@ -20,6 +20,26 @@ date: '2021'
 <span class=type>[Paper] </span>
 <div class="row align-items-end">
 <div class=col-auto>
+<a href=https://doi.org/10.1007/s11695-021-05749-4 target=_blank>Evaluation of Intensive Telephonic Nutritional and Lifestyle Counseling to Enhance Outcomes of Bariatric Surgery</a>
+<div>
+Lily Koffman
+| Alexander W Levis
+| Sebastien Haneuse
+| Eric Johnson
+| Steven Bock
+| Debie McSperitt
+| Anirban Gupta 
+| David Arterburn
+<br>
+<em>Obesity Surgery 2021.</em>
+<span>
+PMID: 
+</span>
+</div>
+
+<span class=type>[Paper] </span>
+<div class="row align-items-end">
+<div class=col-auto>
 <a href=https://doi.org/10.1007/s11695-021-05226-y target=_blank>Investigating Bias from Missing Data in an Electronic Health Records-Based Study of Weight Loss After Bariatric Surgery</a>
 <div>
 Lily Koffman
