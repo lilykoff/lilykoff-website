@@ -1,4 +1,5 @@
-# lilykoff-biostat776-intro-lily-koffman
+# lilykoff-website 
 
 Blogdown website 
-URL: lilykoff.com
+URL: https://lilykoff.com
+Themes adapted from https://github.com/Jack-alope/sourgough-starter
