@@ -55,7 +55,7 @@ Date: '2021'
 <div class= blueish>
 <div class=card-body>
 <h5 class=card-title> Women in Sports Tech (WiST) </h5>
-<p class=card-text><a href=https://www.womeninsportstech.org/fellow-alumnae target=_blank>2020 Fellow</a></p>
+<p class=card-text><a href=https://www.womeninsportstech.org/fellowship-alumni target=_blank>2020 Fellow</a></p>
 <iframe width="400" height="225" title="vimeo-player" src="https://player.vimeo.com/video/420152373?h=66f48d2517" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 </div>
 </div>

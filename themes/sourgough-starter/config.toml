@@ -38,6 +38,11 @@ relativeURLs = true
     identifier = "ProjectsPress"
     name = "Projects and Press"
     url = "/ProjectsPress/"
+    
+  [[menu.main]]
+    identifier = "Posters"
+    name = "Posters and Presentations"
+    url = "/Posters/"
 
 
 #----- NavBottom Links ------
