@@ -94,7 +94,12 @@ relativeURLs = true
   [[menu.link]]
     identifier = "resume"
     name = "resume"
-    url = "https://drive.google.com/file/d/1eCB2-rq8yP7yxKIi7PJTYGnBSFYEF_ul/view?usp=sharing"
+    url = "https://www.overleaf.com/read/jhwkwyznvmsy"
+    
+  [[menu.link]]
+    identifier="CV"
+    name = "CV"
+    url = "https://www.overleaf.com/read/cdvvbvsxqztp"
 
 [taxonomies]
   authors = "authors"
