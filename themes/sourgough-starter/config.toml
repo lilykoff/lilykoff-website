@@ -30,7 +30,7 @@ relativeURLs = true
     url = "/About/"
 
   [[menu.main]]
-    identifier = "publications"
+    identifier = "Publications"
     name = "Publications"
     url = "/Publications/"
 
@@ -40,7 +40,7 @@ relativeURLs = true
     url = "/ProjectsPress/"
     
   [[menu.main]]
-    identifier = "posters"
+    identifier = "Posters"
     name = "Posters and Presentations"
     url = "/Posters/"
 
