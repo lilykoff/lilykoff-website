@@ -40,7 +40,7 @@ relativeURLs = true
     url = "/ProjectsPress/"
     
   [[menu.main]]
-    identifier = "Posters"
+    identifier = "posters"
     name = "Posters and Presentations"
     url = "/Posters/"
 
