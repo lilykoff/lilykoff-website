@@ -10,6 +10,26 @@ draft: no
 <div class=row>
 <div class=col style=text-align:left>
 <hr class=year>
+
+<h4 class=year>2023</h4>
+<span class=type>[Paper] </span>
+<div class="row align-items-end">
+<div class=col-auto>
+<a href=https://doi.org/10.1016/j.gaitpost.2023.05.001 target=_blank>Fingerprinting Walking using Wrist-worn Accelerometers</a>
+<div>
+Lily Koffman
+| Yan Zhang
+| Jaroslaw Harezlak
+| Ciprian Crainiceanu
+| Andrew Leroux
+<br>
+<em> Gait & Posture 2023.</em>
+<span>
+PMID: 
+</span>
+</div>
+
+
 <h4 class=year>2021</h4>
 <span class=type>[Paper] </span>
 <div class="row align-items-end">
