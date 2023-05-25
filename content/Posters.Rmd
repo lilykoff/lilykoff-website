@@ -24,6 +24,29 @@ Lily Koffman
 <em>APTA-CSM, San Diego, CA, 2023.</em>
 </div>
 </div>
+
+<span class=type>[Poster] </span>
+<div class="row align-items-end">
+<div class=col-auto>
+<a href=https://www.atsjournals.org/doi/abs/10.1164/ajrccm-conference.2023.207.1_MeetingAbstracts.A1140 target=_blank>Classifying Physical Conditioning Using Remote Monitoring in Chronic Obstructive Pulmonary Disease</a>
+<div>
+A. Balasubramanian
+| M. French
+| L. Koffman 
+| J. Li 
+| S. Raju 
+| A. Fawzy 
+| A.C. Singh 
+| N. Putcha 
+| P. Searson 
+| R.A.A. Wise 
+| N.N. Hansel 
+| R. Roemmich
+<br>
+<em>American Thoracic Society International Conference, Washington D.C., 2023</em>
+</div>
+</div>
+
 <br><br><br>
 <script async src=https://badge.dimensions.ai/badge.js></script>
 <style>.footer{color:#fff}</style>
