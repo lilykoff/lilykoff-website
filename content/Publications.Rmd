@@ -17,7 +17,7 @@ draft: no
 <div class=col-auto>
 <a href=https://doi.org/10.1016/j.gaitpost.2023.05.001 target=_blank>Fingerprinting Walking using Wrist-worn Accelerometers</a>
 <div>
-Lily Koffman
+<b>Lily Koffman</b>
 | Yan Zhang
 | Jaroslaw Harezlak
 | Ciprian Crainiceanu
@@ -29,6 +29,20 @@ PMID: 37150053
 </span>
 </div>
 
+<span class=type>[Paper] </span>
+<div class="row align-items-end">
+<div class=col-auto>
+<a href=https://doi.org/10.1038/s41370-023-00560-y> Reliability of low mass toenail samples as biomarkers of chronic metal exposure </a>
+<div>
+Joyce J. Y. Lin | <b>Lily J. Koffman</b> | Mina W. Tehrani | Rui Chen | Seok Gyu Han | Dale P. Sandler | Kaitlyn G. Lawrence | W. Braxton Jackson II | Aisha S. Dickerson | Gurumurthy Ramachandran |  Lawrence S. Engel | Ana M. Rule 
+<br>
+<em> Journal of Exposure Science & Environmental Epidemiology 2023.</em>
+<span>
+PMID: 37296232
+</span>
+</div>
+
+
 
 <h4 class=year>2021</h4>
 <span class=type>[Paper] </span>
@@ -36,7 +50,7 @@ PMID: 37150053
 <div class=col-auto>
 <a href=https://doi.org/10.1007/s11695-021-05749-4 target=_blank>Evaluation of Intensive Telephonic Nutritional and Lifestyle Counseling to Enhance Outcomes of Bariatric Surgery</a>
 <div>
-Lily Koffman
+<b>Lily Koffman</b>
 | Alexander W Levis
 | Sebastien Haneuse
 | Eric Johnson
@@ -56,7 +70,7 @@ PMID: 34665441
 <div class=col-auto>
 <a href=https://doi.org/10.1007/s11695-021-05226-y target=_blank>Investigating Bias from Missing Data in an Electronic Health Records-Based Study of Weight Loss After Bariatric Surgery</a>
 <div>
-Lily Koffman
+<b>Lily Koffman</b>
 | Alexander W Levis
 | David Arterburn
 | Karen J Coleman
