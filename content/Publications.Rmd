@@ -12,6 +12,24 @@ draft: no
 <hr class=year>
 
 <h4 class=year>2023</h4>
+
+<span class=type>[Paper] </span>
+<div class="row align-items-end">
+<div class=col-auto>
+<a href=https://doi.org/10.1161/JAHA.123.030577 target=_blank>Identifying Unique Subgroups of Individuals With Stroke Using Heart Rate and Steps to Characterize Physical Activity</a>
+<div>
+<b>Lily Koffman</b>
+| Ciprian Crainiceanu
+| Ryan Roemmich
+| Margaret French
+<br>
+<em> Journal of the American Heart Association 2023.</em>
+<span>
+PMID: 37681556
+</span>
+</div>
+
+
 <span class=type>[Paper] </span>
 <div class="row align-items-end">
 <div class=col-auto>
